@@ -1,0 +1,6 @@
+Asset,Total Price Return (%),CAGR (%),Annualized Volatility (%),Sharpe Ratio (rf = 0%),Maximum Drawdown (%),Beta vs CAC 40,Historical 1-Day VaR (95%),Historical 1-Day CVaR (95%)
+Société Générale,177.1741,22.6341,34.4306,0.7569,-47.8575,1.3849,3.0474,5.4142
+BNP Paribas,86.3503,13.2669,28.4217,0.5745,-38.6126,1.2483,2.8975,4.3841
+Crédit Agricole,52.5859,8.8248,24.1782,0.4663,-42.3979,0.9691,2.3885,4.0876
+Equal-Weighted Bank Portfolio,106.6358,15.6337,26.6958,0.6700,-42.6852,1.2008,2.6702,4.2695
+CAC 40,21.6791,4.0052,16.3199,0.3185,-23.0398,1.0000,1.5843,2.4011
